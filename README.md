@@ -70,3 +70,5 @@ Options:
 ```
 
 Previously known as [github.com/rakyll/boom](https://github.com/rakyll/boom).
+
+<!--- Comment to trigger GHA 1 --->
